@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Saurav 👋
+
+I am a passionate software developer with a knack for deep learning and machine learning techniques. I graduated from University of Freiburg, Germany with M.Sc. Computer Science focussed on Computer Vision and Deep learning. 
+
+### My project on 3D object detection
+<img src="https://github.com/saurav1869/saurav1869/blob/main/movie_short.gif" width="400"><img src="https://github.com/saurav1869/saurav1869/blob/main/bev_movie_short.gif" width="400">
+
+
 
 <!--
 **saurav1869/saurav1869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
