@@ -13,6 +13,7 @@ I am a passionate software developer with a knack for deep learning and machine 
 ### My project on 3D object detection
 <img src="https://github.com/saurav1869/saurav1869/blob/main/movie_short.gif" width="400"><img src="https://github.com/saurav1869/saurav1869/blob/main/bev_movie_short.gif" width="400">
 
+<!--
 <hr/>
 In my free time I also like to do things to increase my productivity. For example, I wrote a web extension for Chrome and Firefox users which can provide meaning and pronunciation of any double-clicked word and also saves the looked-up words locally. It has around 400+ users worldwide.
 
